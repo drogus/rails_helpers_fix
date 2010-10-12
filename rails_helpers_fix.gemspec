@@ -5,5 +5,5 @@ Gem::Specification.new do |s|
   s.summary = "Quick fix to include plugin's helpers for rails 3.0.0"
   s.description = "Quick fix to include plugin's helpers for rails 3.0.0"
   s.files = Dir["lib/**/*"] + ["MIT-LICENSE", "Rakefile", "README.rdoc"]
-  s.version = "0.1"
+  s.version = "0.1.1"
 end
