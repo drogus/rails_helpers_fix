@@ -1,4 +1,4 @@
-module HelpersFix
+module RailsHelpersFix
   class Railtie < Rails::Railtie
     initializer "include railties helpers" do
       helpers_paths = []
