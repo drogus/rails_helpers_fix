@@ -1,3 +1,11 @@
-= HelpersFix
+= RailsHelpersFix
+
+This gem fixes the issue described here: https://rails.lighthouseapp.com/projects/8994-ruby-on-rails/tickets/1905-apphelpers-within-plugin-not-being-mixed-in#ticket-1905-22
+
+== Usage
+
+Add following line to Gemfile and run bundle install:
+
+    gem "rails_helpers_fix"
 
 This project rocks and uses MIT-LICENSE.
